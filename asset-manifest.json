@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deploy-github/static/css/main.cb95ffca.css",
+    "main.js": "/deploy-github/static/js/main.20f6f0c8.js",
+    "static/js/787.3c83cd10.chunk.js": "/deploy-github/static/js/787.3c83cd10.chunk.js",
+    "static/media/bg-hero.jpg": "/deploy-github/static/media/bg-hero.3c39ea842d88148bd97a.jpg",
+    "static/media/summernote.eot": "/deploy-github/static/media/summernote.bd0d8be1fbad3612dfe1.eot",
+    "static/media/summernote.ttf": "/deploy-github/static/media/summernote.b293d601cf1cddd1a1b4.ttf",
+    "static/media/summernote.woff": "/deploy-github/static/media/summernote.08c343ff91f188dfc1a7.woff",
+    "static/media/summernote.woff2": "/deploy-github/static/media/summernote.7c9436ed8d2deac04e37.woff2",
+    "index.html": "/deploy-github/index.html",
+    "main.cb95ffca.css.map": "/deploy-github/static/css/main.cb95ffca.css.map",
+    "main.20f6f0c8.js.map": "/deploy-github/static/js/main.20f6f0c8.js.map",
+    "787.3c83cd10.chunk.js.map": "/deploy-github/static/js/787.3c83cd10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb95ffca.css",
+    "static/js/main.20f6f0c8.js"
+  ]
+}
