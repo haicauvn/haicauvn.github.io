@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.40090797.css",
-    "main.js": "/static/js/main.68aad989.js",
-    "static/js/787.3c83cd10.chunk.js": "/static/js/787.3c83cd10.chunk.js",
-    "static/media/bg-hero.jpg": "/static/media/bg-hero.3c39ea842d88148bd97a.jpg",
-    "static/media/summernote.eot": "/static/media/summernote.bd0d8be1fbad3612dfe1.eot",
-    "static/media/summernote.ttf": "/static/media/summernote.b293d601cf1cddd1a1b4.ttf",
-    "static/media/summernote.woff": "/static/media/summernote.08c343ff91f188dfc1a7.woff",
-    "static/media/summernote.woff2": "/static/media/summernote.7c9436ed8d2deac04e37.woff2",
-    "index.html": "/index.html",
-    "main.40090797.css.map": "/static/css/main.40090797.css.map",
-    "main.68aad989.js.map": "/static/js/main.68aad989.js.map",
-    "787.3c83cd10.chunk.js.map": "/static/js/787.3c83cd10.chunk.js.map"
+    "main.css": "/danloctravel/static/css/main.91d37d2e.css",
+    "main.js": "/danloctravel/static/js/main.748b5d96.js",
+    "static/js/787.3c83cd10.chunk.js": "/danloctravel/static/js/787.3c83cd10.chunk.js",
+    "static/media/bg-hero.jpg": "/danloctravel/static/media/bg-hero.3c39ea842d88148bd97a.jpg",
+    "index.html": "/danloctravel/index.html",
+    "main.91d37d2e.css.map": "/danloctravel/static/css/main.91d37d2e.css.map",
+    "main.748b5d96.js.map": "/danloctravel/static/js/main.748b5d96.js.map",
+    "787.3c83cd10.chunk.js.map": "/danloctravel/static/js/787.3c83cd10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40090797.css",
-    "static/js/main.68aad989.js"
+    "static/css/main.91d37d2e.css",
+    "static/js/main.748b5d96.js"
   ]
 }
