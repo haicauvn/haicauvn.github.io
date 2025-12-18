@@ -23,7 +23,7 @@ permalink:        pretty
 title:            Random kit
 tagline:          'eh'
 description:      'Random blog for random people'
-url:              http://jtanx.github.io
+url:              http://haicauvn.github.io
 baseurl:          /
 
 author:
@@ -38,7 +38,7 @@ excerpt_separator: <!--more-->
 version:          2.1.0
 
 # WTF M8 https://github.com/jekyll/jekyll/issues/4705
-repository:       jtanx/jtanx.github.io
+repository:       haicauvn/haicauvn.github.io
 
 # lol
 future: true
